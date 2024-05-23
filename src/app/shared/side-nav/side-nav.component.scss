@@ -1,0 +1,21 @@
+.side_nav{
+    background: rgb(9, 56, 44) !important;
+    height: 600px !important;
+    margin-left: -12px;
+    overflow-y: scroll;
+    ul{
+        padding-left: 0px;
+        li{
+            list-style: none;
+            border-bottom: 1px #f2f2f2 solid;
+            a{
+                text-decoration: none; color: #f1f1f1; line-height: 2; padding:10px; display: block;
+            }
+            :hover{
+                background-color:#f1f1f1;
+                color:#0d3a23;
+                transition: 0.3s;
+            }
+        }
+    }
+}

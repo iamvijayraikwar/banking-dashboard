@@ -1,0 +1,14 @@
+.btn_bank{
+    border: 1px #ddd solid;
+    padding: 10px 30px 10px;
+    border-radius: 20px;
+}
+.nav-link{
+    color: #dc6503 !important;
+    border: 1px #dc6503 solid;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff !important;
+    background-color: #dc6503;
+}
